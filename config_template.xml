@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : config_template.xml
+    Created on : 20120403
+    Author     : Dennis Ploeger <develop@dieploegers.de>
+    Description: Select a folder to save a sent message to
+-->
+
+<zimletConfig name="de_dieploegers_savesend" version="1.0">
+</zimletConfig>
